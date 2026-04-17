@@ -15,6 +15,7 @@ st.set_page_config(page_title="Expense Tracker Dashboard", layout="wide")
 # -----------------------------
 st.title("💰 Expense Tracker Dashboard")
 
+uploaded_file = st.file_uploader("📂 Upload your Expense CSV", type=["csv"])
 # -----------------------------
 # Load Default Data
 # -----------------------------
