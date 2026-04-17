@@ -25,7 +25,7 @@ To help users track expenses, analyze spending behavior, and make better financi
 (Add screenshots here)
 
 ## ▶️ How to Run
-```bash
+
 pip install -r requirements.txt
 streamlit run main.py
 
