@@ -1,0 +1,501 @@
+Date,Category,Payment_Method,Amount
+2024-01-01,Travel,UPI,3887
+2024-01-02,Food,Cash,982
+2024-01-02,Food,Debit Card,772
+2024-01-02,Healthcare,Credit Card,224
+2024-01-04,Entertainment,Debit Card,3529
+2024-01-04,Travel,UPI,4861
+2024-01-05,Entertainment,UPI,274
+2024-01-05,Education,Debit Card,3360
+2024-01-06,Healthcare,Credit Card,3700
+2024-01-09,Education,UPI,2841
+2024-01-09,Education,Credit Card,792
+2024-01-10,Travel,Cash,1056
+2024-01-13,Education,Debit Card,1589
+2024-01-13,Shopping,UPI,901
+2024-01-14,Bills,Debit Card,1511
+2024-01-15,Bills,Cash,240
+2024-01-15,Healthcare,Credit Card,1723
+2024-01-16,Healthcare,UPI,3989
+2024-01-17,Rent,Cash,9435
+2024-01-18,Bills,Credit Card,1163
+2024-01-20,Bills,Credit Card,2465
+2024-01-21,Education,Cash,3415
+2024-01-21,Travel,UPI,3800
+2024-01-22,Rent,Debit Card,9346
+2024-01-22,Travel,UPI,1981
+2024-01-23,Entertainment,Credit Card,3938
+2024-01-26,Food,UPI,984
+2024-01-27,Travel,Debit Card,2532
+2024-01-28,Shopping,UPI,3480
+2024-01-28,Food,UPI,248
+2024-01-29,Travel,Credit Card,3528
+2024-02-02,Healthcare,UPI,3441
+2024-02-02,Bills,UPI,1504
+2024-02-04,Education,Credit Card,2982
+2024-02-04,Rent,Debit Card,13633
+2024-02-04,Education,Cash,3173
+2024-02-05,Bills,Debit Card,3747
+2024-02-05,Bills,Debit Card,425
+2024-02-06,Food,Debit Card,769
+2024-02-06,Education,Debit Card,926
+2024-02-07,Bills,UPI,3412
+2024-02-08,Entertainment,Cash,3931
+2024-02-08,Travel,UPI,3859
+2024-02-08,Education,Credit Card,1904
+2024-02-10,Rent,Credit Card,8186
+2024-02-10,Rent,UPI,12083
+2024-02-11,Entertainment,Debit Card,2281
+2024-02-13,Rent,Credit Card,6308
+2024-02-13,Rent,Cash,10415
+2024-02-14,Healthcare,UPI,892
+2024-02-15,Food,Cash,102
+2024-02-16,Healthcare,Credit Card,3439
+2024-02-16,Travel,Debit Card,2140
+2024-02-17,Travel,Credit Card,3611
+2024-02-17,Education,Cash,3630
+2024-02-18,Entertainment,Cash,254
+2024-02-18,Food,UPI,458
+2024-02-19,Entertainment,UPI,529
+2024-02-20,Travel,Credit Card,4908
+2024-02-20,Travel,Cash,1313
+2024-02-20,Healthcare,Credit Card,2936
+2024-02-21,Travel,UPI,2620
+2024-02-21,Travel,Credit Card,4763
+2024-02-22,Food,Credit Card,904
+2024-02-22,Food,Credit Card,965
+2024-02-22,Rent,UPI,12287
+2024-02-22,Travel,Debit Card,664
+2024-02-23,Shopping,Debit Card,2398
+2024-02-23,Shopping,Debit Card,3761
+2024-02-23,Shopping,Cash,1452
+2024-02-23,Healthcare,Cash,359
+2024-02-23,Rent,Debit Card,6828
+2024-02-24,Bills,UPI,2207
+2024-02-27,Entertainment,Cash,2308
+2024-02-27,Bills,Debit Card,3497
+2024-02-27,Education,UPI,653
+2024-02-27,Education,Credit Card,2666
+2024-02-28,Shopping,Debit Card,3747
+2024-02-29,Bills,UPI,336
+2024-02-29,Bills,Credit Card,1092
+2024-03-02,Entertainment,Debit Card,3563
+2024-03-02,Shopping,Cash,3472
+2024-03-03,Travel,Debit Card,841
+2024-03-03,Healthcare,Cash,1243
+2024-03-03,Rent,Debit Card,7106
+2024-03-05,Food,UPI,953
+2024-03-06,Healthcare,UPI,3976
+2024-03-08,Shopping,Credit Card,692
+2024-03-09,Rent,UPI,7383
+2024-03-09,Rent,Debit Card,7745
+2024-03-12,Shopping,UPI,1700
+2024-03-15,Travel,Cash,3167
+2024-03-16,Rent,Credit Card,8930
+2024-03-21,Entertainment,Cash,1138
+2024-03-21,Food,UPI,106
+2024-03-21,Food,Cash,826
+2024-03-26,Bills,Cash,1512
+2024-03-26,Food,UPI,921
+2024-03-28,Travel,Cash,3557
+2024-03-29,Rent,Debit Card,10207
+2024-03-29,Healthcare,Debit Card,1524
+2024-04-01,Healthcare,Credit Card,2111
+2024-04-01,Healthcare,Debit Card,1154
+2024-04-01,Rent,Debit Card,11612
+2024-04-03,Education,UPI,2339
+2024-04-04,Rent,Debit Card,12832
+2024-04-05,Shopping,Debit Card,564
+2024-04-05,Shopping,Credit Card,995
+2024-04-05,Travel,Debit Card,2074
+2024-04-05,Entertainment,Debit Card,809
+2024-04-06,Education,Credit Card,2908
+2024-04-06,Bills,UPI,471
+2024-04-07,Healthcare,Credit Card,3863
+2024-04-08,Food,UPI,185
+2024-04-08,Shopping,Debit Card,1189
+2024-04-08,Shopping,Credit Card,3230
+2024-04-08,Bills,UPI,3506
+2024-04-08,Rent,Credit Card,6165
+2024-04-08,Bills,Credit Card,631
+2024-04-09,Rent,UPI,11645
+2024-04-09,Food,Cash,880
+2024-04-09,Rent,Debit Card,10150
+2024-04-10,Travel,Cash,4569
+2024-04-10,Rent,Credit Card,6240
+2024-04-10,Food,Credit Card,208
+2024-04-12,Shopping,Cash,2576
+2024-04-12,Education,Cash,2917
+2024-04-12,Rent,UPI,12186
+2024-04-13,Healthcare,UPI,3982
+2024-04-13,Travel,Debit Card,630
+2024-04-15,Shopping,Cash,369
+2024-04-15,Travel,Debit Card,3656
+2024-04-16,Food,UPI,528
+2024-04-17,Healthcare,UPI,2230
+2024-04-17,Travel,Debit Card,4350
+2024-04-21,Education,Cash,3790
+2024-04-21,Food,Credit Card,282
+2024-04-22,Entertainment,UPI,260
+2024-04-22,Healthcare,UPI,1864
+2024-04-22,Shopping,UPI,2289
+2024-04-22,Shopping,Debit Card,2435
+2024-04-22,Rent,UPI,5153
+2024-04-23,Travel,Credit Card,1963
+2024-04-25,Entertainment,Cash,3196
+2024-04-25,Education,Cash,3423
+2024-04-25,Food,Cash,763
+2024-04-26,Food,UPI,137
+2024-04-27,Entertainment,Debit Card,792
+2024-04-29,Shopping,Cash,814
+2024-04-29,Education,Cash,1760
+2024-04-30,Entertainment,Credit Card,2870
+2024-05-01,Shopping,UPI,2265
+2024-05-01,Food,Debit Card,136
+2024-05-02,Food,Credit Card,668
+2024-05-03,Entertainment,Debit Card,1950
+2024-05-03,Travel,Cash,1855
+2024-05-04,Rent,Debit Card,14788
+2024-05-05,Education,Debit Card,1172
+2024-05-05,Food,Debit Card,577
+2024-05-06,Shopping,UPI,1399
+2024-05-06,Entertainment,Debit Card,2068
+2024-05-07,Entertainment,Credit Card,938
+2024-05-07,Entertainment,Credit Card,3615
+2024-05-07,Food,Credit Card,146
+2024-05-07,Entertainment,UPI,3054
+2024-05-08,Travel,Debit Card,1413
+2024-05-08,Food,Cash,810
+2024-05-08,Healthcare,Cash,3429
+2024-05-09,Bills,Debit Card,301
+2024-05-09,Travel,Cash,4726
+2024-05-10,Shopping,UPI,2857
+2024-05-10,Education,Debit Card,3325
+2024-05-10,Food,Cash,213
+2024-05-10,Education,Debit Card,601
+2024-05-13,Education,Debit Card,1594
+2024-05-14,Travel,Credit Card,3810
+2024-05-14,Healthcare,Cash,3721
+2024-05-14,Food,Debit Card,625
+2024-05-15,Entertainment,Credit Card,2879
+2024-05-16,Bills,UPI,1512
+2024-05-18,Rent,UPI,13173
+2024-05-19,Travel,Credit Card,1326
+2024-05-21,Travel,Credit Card,3053
+2024-05-22,Rent,Credit Card,14900
+2024-05-22,Healthcare,Cash,2506
+2024-05-23,Food,Cash,848
+2024-05-23,Entertainment,UPI,1999
+2024-05-23,Healthcare,Credit Card,534
+2024-05-23,Rent,Debit Card,6218
+2024-05-24,Food,Cash,139
+2024-05-26,Education,Cash,2619
+2024-05-26,Entertainment,Credit Card,1491
+2024-05-26,Healthcare,Credit Card,1686
+2024-05-26,Shopping,Debit Card,3941
+2024-05-26,Food,Debit Card,476
+2024-05-27,Entertainment,Credit Card,1423
+2024-05-27,Shopping,Debit Card,3926
+2024-05-29,Entertainment,UPI,3493
+2024-05-29,Food,Cash,990
+2024-05-30,Bills,Debit Card,2017
+2024-05-30,Food,Credit Card,161
+2024-05-31,Travel,Debit Card,1966
+2024-05-31,Bills,Credit Card,3515
+2024-05-31,Food,Debit Card,212
+2024-06-01,Shopping,Debit Card,1744
+2024-06-01,Education,Debit Card,563
+2024-06-02,Bills,Cash,2196
+2024-06-03,Healthcare,Debit Card,2473
+2024-06-05,Food,Debit Card,966
+2024-06-06,Food,UPI,620
+2024-06-06,Entertainment,Cash,2004
+2024-06-06,Bills,Credit Card,3960
+2024-06-08,Shopping,Debit Card,1836
+2024-06-08,Food,UPI,733
+2024-06-08,Entertainment,Debit Card,3778
+2024-06-08,Education,Credit Card,1700
+2024-06-09,Healthcare,Debit Card,598
+2024-06-09,Entertainment,UPI,215
+2024-06-09,Travel,Cash,1682
+2024-06-09,Food,Cash,154
+2024-06-10,Food,UPI,799
+2024-06-11,Food,Debit Card,496
+2024-06-11,Shopping,Cash,327
+2024-06-13,Entertainment,UPI,3819
+2024-06-15,Healthcare,UPI,3254
+2024-06-17,Shopping,Credit Card,3432
+2024-06-18,Shopping,Credit Card,3846
+2024-06-18,Bills,Cash,3066
+2024-06-18,Bills,Cash,2023
+2024-06-18,Bills,Debit Card,3416
+2024-06-19,Rent,Debit Card,7969
+2024-06-20,Entertainment,Debit Card,588
+2024-06-20,Education,Cash,2741
+2024-06-20,Shopping,Debit Card,1962
+2024-06-20,Rent,UPI,11667
+2024-06-21,Education,Credit Card,1024
+2024-06-22,Entertainment,UPI,909
+2024-06-23,Rent,Debit Card,5832
+2024-06-24,Travel,Debit Card,1045
+2024-06-24,Entertainment,UPI,1807
+2024-06-27,Travel,Debit Card,2122
+2024-06-28,Bills,Debit Card,2309
+2024-06-28,Entertainment,Credit Card,2919
+2024-06-28,Bills,UPI,681
+2024-06-29,Food,Cash,392
+2024-07-02,Food,UPI,429
+2024-07-03,Bills,Debit Card,1485
+2024-07-04,Entertainment,UPI,3370
+2024-07-05,Bills,Cash,1708
+2024-07-05,Travel,UPI,4725
+2024-07-05,Travel,Credit Card,2139
+2024-07-06,Food,Credit Card,804
+2024-07-06,Food,Cash,325
+2024-07-06,Healthcare,Credit Card,1401
+2024-07-07,Entertainment,Credit Card,2596
+2024-07-07,Education,UPI,485
+2024-07-08,Healthcare,UPI,2113
+2024-07-08,Rent,Debit Card,6333
+2024-07-08,Education,Credit Card,906
+2024-07-08,Entertainment,Debit Card,3620
+2024-07-09,Education,UPI,2198
+2024-07-09,Education,Debit Card,3652
+2024-07-10,Healthcare,Cash,2362
+2024-07-10,Rent,Debit Card,11016
+2024-07-10,Bills,UPI,1120
+2024-07-12,Food,UPI,615
+2024-07-13,Rent,Cash,13502
+2024-07-14,Travel,Cash,2433
+2024-07-16,Bills,UPI,3583
+2024-07-16,Healthcare,UPI,3315
+2024-07-16,Travel,Debit Card,715
+2024-07-17,Rent,Cash,13680
+2024-07-19,Bills,Credit Card,720
+2024-07-19,Entertainment,Debit Card,3352
+2024-07-20,Rent,Debit Card,9177
+2024-07-21,Shopping,Cash,1240
+2024-07-22,Shopping,Cash,2818
+2024-07-24,Shopping,Cash,1022
+2024-07-25,Food,Debit Card,455
+2024-07-26,Entertainment,Debit Card,2969
+2024-07-26,Education,Cash,595
+2024-07-26,Entertainment,Cash,3242
+2024-07-31,Healthcare,Cash,3390
+2024-08-01,Entertainment,UPI,2913
+2024-08-02,Bills,UPI,3270
+2024-08-02,Education,Cash,968
+2024-08-02,Shopping,UPI,3318
+2024-08-03,Rent,Cash,10877
+2024-08-04,Entertainment,Debit Card,1479
+2024-08-05,Education,Debit Card,3842
+2024-08-05,Education,Cash,1114
+2024-08-05,Shopping,UPI,3085
+2024-08-05,Entertainment,Debit Card,2522
+2024-08-07,Bills,UPI,3418
+2024-08-07,Shopping,Debit Card,3769
+2024-08-07,Travel,Debit Card,3124
+2024-08-09,Rent,UPI,11136
+2024-08-09,Rent,UPI,14908
+2024-08-10,Entertainment,Cash,2610
+2024-08-10,Healthcare,Debit Card,2434
+2024-08-11,Entertainment,Cash,371
+2024-08-12,Bills,Cash,1658
+2024-08-12,Education,Credit Card,297
+2024-08-12,Shopping,Cash,950
+2024-08-13,Rent,Cash,13436
+2024-08-14,Shopping,Credit Card,2276
+2024-08-14,Entertainment,Cash,3183
+2024-08-16,Rent,Cash,12291
+2024-08-17,Food,Cash,373
+2024-08-18,Healthcare,Credit Card,1450
+2024-08-18,Healthcare,Cash,3558
+2024-08-18,Bills,UPI,3068
+2024-08-18,Food,UPI,981
+2024-08-20,Healthcare,Credit Card,957
+2024-08-20,Healthcare,Credit Card,3494
+2024-08-20,Healthcare,Cash,2226
+2024-08-20,Rent,Credit Card,13567
+2024-08-21,Healthcare,Debit Card,3738
+2024-08-23,Shopping,Cash,3651
+2024-08-24,Entertainment,Credit Card,654
+2024-08-24,Entertainment,Credit Card,1755
+2024-08-24,Entertainment,Debit Card,2471
+2024-08-25,Education,Cash,2600
+2024-08-25,Education,Credit Card,958
+2024-08-26,Food,Debit Card,787
+2024-08-27,Shopping,Cash,538
+2024-08-28,Bills,Credit Card,845
+2024-08-29,Shopping,Debit Card,3391
+2024-08-30,Shopping,Credit Card,3267
+2024-08-31,Food,UPI,542
+2024-09-02,Entertainment,Credit Card,1025
+2024-09-02,Rent,Credit Card,10690
+2024-09-03,Healthcare,UPI,1533
+2024-09-03,Rent,Cash,11183
+2024-09-03,Food,Debit Card,916
+2024-09-06,Education,Debit Card,2669
+2024-09-06,Travel,UPI,4008
+2024-09-08,Healthcare,UPI,590
+2024-09-08,Bills,Cash,1957
+2024-09-08,Education,UPI,1609
+2024-09-08,Rent,Credit Card,11609
+2024-09-09,Bills,Debit Card,2832
+2024-09-09,Rent,Credit Card,11305
+2024-09-10,Shopping,UPI,1394
+2024-09-10,Shopping,Credit Card,1721
+2024-09-10,Education,Credit Card,2804
+2024-09-11,Education,Credit Card,1720
+2024-09-11,Entertainment,UPI,3417
+2024-09-12,Shopping,Debit Card,3064
+2024-09-13,Rent,Debit Card,13996
+2024-09-13,Entertainment,Debit Card,2329
+2024-09-14,Rent,Credit Card,14138
+2024-09-15,Shopping,Debit Card,605
+2024-09-15,Healthcare,UPI,909
+2024-09-16,Entertainment,Credit Card,346
+2024-09-17,Entertainment,Credit Card,2968
+2024-09-18,Healthcare,Debit Card,1580
+2024-09-19,Entertainment,UPI,449
+2024-09-20,Entertainment,Debit Card,1109
+2024-09-20,Rent,UPI,9876
+2024-09-20,Travel,Credit Card,3300
+2024-09-20,Education,Cash,228
+2024-09-21,Travel,Debit Card,3038
+2024-09-23,Healthcare,Cash,600
+2024-09-24,Rent,Cash,7343
+2024-09-24,Healthcare,Cash,436
+2024-09-25,Bills,Cash,1120
+2024-09-26,Education,Cash,713
+2024-09-27,Travel,Debit Card,3962
+2024-09-27,Travel,Credit Card,3876
+2024-09-27,Entertainment,UPI,202
+2024-09-27,Food,UPI,845
+2024-09-28,Travel,UPI,817
+2024-09-29,Food,UPI,252
+2024-09-30,Travel,UPI,2643
+2024-10-01,Shopping,Cash,1618
+2024-10-03,Entertainment,Debit Card,1331
+2024-10-03,Food,Credit Card,363
+2024-10-03,Entertainment,UPI,947
+2024-10-04,Rent,Credit Card,6591
+2024-10-05,Entertainment,UPI,1474
+2024-10-06,Food,Credit Card,688
+2024-10-06,Healthcare,UPI,211
+2024-10-06,Entertainment,Cash,2233
+2024-10-06,Bills,UPI,1133
+2024-10-06,Entertainment,UPI,1006
+2024-10-07,Entertainment,UPI,3411
+2024-10-09,Healthcare,Debit Card,1157
+2024-10-09,Education,Credit Card,2289
+2024-10-09,Education,Cash,254
+2024-10-10,Education,UPI,3711
+2024-10-10,Travel,Credit Card,4624
+2024-10-10,Entertainment,Debit Card,1586
+2024-10-11,Education,Debit Card,415
+2024-10-12,Travel,Cash,1636
+2024-10-12,Entertainment,Credit Card,896
+2024-10-14,Travel,Debit Card,553
+2024-10-14,Travel,UPI,3915
+2024-10-15,Rent,Cash,5362
+2024-10-15,Shopping,UPI,935
+2024-10-15,Education,Credit Card,1649
+2024-10-16,Rent,Cash,12561
+2024-10-16,Shopping,Cash,3220
+2024-10-19,Travel,Cash,1801
+2024-10-20,Food,UPI,914
+2024-10-20,Shopping,Debit Card,3915
+2024-10-21,Bills,Debit Card,1240
+2024-10-22,Bills,Cash,670
+2024-10-24,Bills,Debit Card,3228
+2024-10-25,Food,Debit Card,663
+2024-10-27,Food,Debit Card,605
+2024-10-28,Travel,Cash,645
+2024-10-30,Shopping,UPI,1134
+2024-10-30,Entertainment,Debit Card,3141
+2024-10-30,Healthcare,Cash,1462
+2024-10-30,Travel,Debit Card,4094
+2024-10-30,Rent,UPI,13007
+2024-10-31,Bills,UPI,1049
+2024-11-01,Education,Cash,3764
+2024-11-02,Shopping,UPI,3419
+2024-11-02,Entertainment,UPI,3008
+2024-11-03,Shopping,UPI,1761
+2024-11-03,Rent,Cash,14179
+2024-11-04,Rent,Debit Card,10797
+2024-11-05,Food,Cash,723
+2024-11-05,Food,Debit Card,448
+2024-11-06,Bills,Debit Card,3594
+2024-11-08,Shopping,Credit Card,3378
+2024-11-09,Food,UPI,589
+2024-11-09,Education,Cash,3914
+2024-11-10,Rent,Cash,12101
+2024-11-11,Travel,Credit Card,3901
+2024-11-11,Food,Credit Card,177
+2024-11-12,Food,UPI,847
+2024-11-13,Food,Credit Card,861
+2024-11-13,Travel,Credit Card,2024
+2024-11-13,Entertainment,Debit Card,2575
+2024-11-14,Bills,UPI,3532
+2024-11-15,Travel,Credit Card,827
+2024-11-16,Travel,Credit Card,1436
+2024-11-17,Rent,Credit Card,6796
+2024-11-18,Bills,Credit Card,1138
+2024-11-18,Food,Debit Card,988
+2024-11-19,Bills,Cash,3204
+2024-11-20,Healthcare,Credit Card,2603
+2024-11-20,Entertainment,Cash,1541
+2024-11-20,Travel,Cash,3308
+2024-11-21,Entertainment,Cash,2463
+2024-11-21,Entertainment,Credit Card,2621
+2024-11-22,Shopping,Debit Card,1503
+2024-11-22,Travel,Cash,4129
+2024-11-23,Shopping,Debit Card,2799
+2024-11-24,Travel,Cash,4175
+2024-11-26,Entertainment,UPI,386
+2024-11-26,Shopping,Debit Card,2837
+2024-12-03,Shopping,Cash,2508
+2024-12-03,Bills,Debit Card,977
+2024-12-03,Bills,UPI,2744
+2024-12-05,Travel,Credit Card,2558
+2024-12-05,Entertainment,UPI,381
+2024-12-05,Shopping,UPI,3052
+2024-12-06,Shopping,Cash,3063
+2024-12-07,Rent,UPI,13202
+2024-12-07,Food,Cash,826
+2024-12-07,Bills,Cash,2937
+2024-12-08,Education,Cash,307
+2024-12-09,Entertainment,UPI,1030
+2024-12-09,Food,Credit Card,813
+2024-12-10,Entertainment,Credit Card,2334
+2024-12-10,Healthcare,UPI,1587
+2024-12-11,Entertainment,Debit Card,651
+2024-12-11,Travel,Credit Card,1483
+2024-12-11,Entertainment,Debit Card,3181
+2024-12-11,Shopping,Cash,1312
+2024-12-11,Rent,Cash,13820
+2024-12-13,Entertainment,UPI,2991
+2024-12-14,Food,Credit Card,423
+2024-12-14,Bills,Cash,2532
+2024-12-14,Education,Credit Card,3223
+2024-12-14,Rent,Debit Card,13230
+2024-12-14,Education,UPI,3311
+2024-12-15,Travel,Debit Card,1790
+2024-12-16,Shopping,Cash,2120
+2024-12-17,Rent,Cash,8993
+2024-12-17,Bills,Credit Card,2274
+2024-12-19,Rent,Cash,8845
+2024-12-20,Healthcare,Credit Card,1151
+2024-12-20,Food,Cash,342
+2024-12-22,Rent,UPI,9286
+2024-12-24,Bills,Debit Card,2375
+2024-12-24,Food,Cash,168
+2024-12-25,Entertainment,UPI,974
+2024-12-25,Food,Cash,115
+2024-12-25,Entertainment,Debit Card,3651
+2024-12-25,Shopping,Cash,1187
+2024-12-25,Entertainment,UPI,2251
+2024-12-29,Rent,UPI,10954
+2024-12-30,Travel,UPI,4181
+2024-12-30,Travel,Cash,4310
+2024-12-31,Healthcare,Debit Card,3798
