@@ -42,7 +42,7 @@ Mobile app integration
 
 
 ## 🌐 Live Demo
-https://your-streamlit-link
+https://expense-tracker-app-s8ouebvvsed55gle29xybb.streamlit.app/
 
 ## 📸 Screenshots
 (Add images here)
