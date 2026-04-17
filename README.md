@@ -37,6 +37,15 @@ Generated insights for financial decisions
 AI-based expense prediction
 Budget alerts
 Mobile app integration
-👨‍💻 Author
 
-Kishor Kumar L
+
+
+
+## 🌐 Live Demo
+https://your-streamlit-link
+
+## 📸 Screenshots
+(Add images here)
+
+👨‍💻 Author
+Kishor Kuamr L
