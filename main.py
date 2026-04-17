@@ -33,7 +33,7 @@ def load_data():
 # -----------------------------
 # File Upload Handling (FIXED)
 # -----------------------------
-uploaded_file = st.file_uploader("📂 Upload your Expense CSV", type=["csv"])
+
 
 required_columns = ["Date", "Category", "Amount"]
 
